@@ -29,6 +29,17 @@ font-size: 90%;
 #software ul a:hover::after{
     width: 50px;
 }
+#allison{
+   
+   color: mediumpurple;
+}
+.head{
+    color: mediumspringgreen;
+    display:inline-flex;
+    
+}
+    
+    
  
 
 
