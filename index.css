@@ -17,6 +17,18 @@ font-size: 90%;
     width: 100%;
     padding: 12px 20px;
 }
+#software  ul a::after{
+    content: '';
+    width: 0%;
+    height: 3px;
+    background: greenyellow;
+    display: block;
+    margin: auto;
+    transition: 0.6s;
+}
+#software ul a:hover::after{
+    width: 50px;
+}
  
 
 
