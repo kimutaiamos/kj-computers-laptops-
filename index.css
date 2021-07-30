@@ -2,3 +2,22 @@
     background-color: aqua;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.comp{
+color: black;
+font-size: xx-large;
+font-size: 90%;
+}
+#software ul{
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    width: 100%;
+    padding: 12px 20px;
+}
+ 
+
+
+   
